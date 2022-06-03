@@ -54,7 +54,7 @@ api_name:
 
 ## -description
 
-Contains information about the high contrast accessibility feature.This feature sets the appearance scheme of the user interface for maximum visibility for a visually-impaired user, and advises applications to comply with this appearance scheme.
+Contains information about the high contrast accessibility feature. This feature sets the appearance scheme of the user interface for maximum visibility for a visually-impaired user, and advises applications to comply with this appearance scheme.
 
 ## -struct-fields
 
